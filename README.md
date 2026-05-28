@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="420" height="230" alt="1000005280" src="https://github.com/user-attachments/assets/57ad3aa7-068e-465d-b799-45d311672068" />
+
 
 <!--
 **mattekudasai81/mattekudasai81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
